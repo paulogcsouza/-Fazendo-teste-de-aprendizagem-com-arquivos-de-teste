@@ -1,9 +1,14 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 20 14:36:39 2017
-
-@author: Jones
-"""
+#!/usr/bin/env bash
+# Neive Bayes
+#
+#  Email:      paulogcsouza86@hotmail.com
+#  Autor:      Paulo Souza                 Manutenção: Paulo Souza
+#
+# ---------------------------------------------------------------------------- #
+#  Histórico:
+#   v1.0 11/6/2020 (Começou a funcionar)
+#  
+#   bash 4.4.20(1)
 import pandas as pd
 
 base = pd.read_csv('risco_credito.csv')
