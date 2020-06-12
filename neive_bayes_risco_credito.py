@@ -6,7 +6,7 @@
 #
 # ---------------------------------------------------------------------------- #
 #  Histórico:
-#   v1.0 11/6/2020 (Começou a funcionar)
+#   v1.0 8/6/2020 (Começou a funcionar)
 #  
 #   bash 4.4.20(1)
 import pandas as pd
