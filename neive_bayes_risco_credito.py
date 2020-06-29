@@ -8,7 +8,7 @@
 #  Histórico:
 #   v1.0 16/6/2020 (Começou a funcionar)
 #  
-#   bash 4.4.20
+]
 import pandas as pd
 
 base = pd.read_csv('risco_credito.csv')
