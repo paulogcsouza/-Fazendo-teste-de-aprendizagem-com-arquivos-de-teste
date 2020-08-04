@@ -8,7 +8,7 @@
 # ---------------------------------------------------------------------------- #
 #  Histórico:
 #   v1.0 21/07/2020 (Começou a funcionar)
-#  Testado em: python 3.8.
+#  Testado em: python 3.8.1
 
 import pandas as pd 
 base = pd.read_csv('data_credito.csv')
