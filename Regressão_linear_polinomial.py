@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # 
-#  Regressão Linear para house price, com apenas uma variável (tamnho quadrdo da casa)
+#  Regressão Linear Polinomial com uma variavel 
 #  Email:      paulogcsouza86@hotmail.com
 #  Autor:      Paulo Souza                 Manutenção: Paulo Souza
 #
