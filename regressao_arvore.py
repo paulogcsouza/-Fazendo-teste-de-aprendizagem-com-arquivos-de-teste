@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 #
 # 
-#  Regressão Linear Utilizando Arvore de decisão
+#  Regressão Linear Utilizando Arvore de decisão base de dados 'plano de saude 2'
 #  Email:      paulogcsouza86@hotmail.com
 #  Autor:      Paulo Souza                 Manutenção: Paulo Souza
 #
 # ---------------------------------------------------------------------------- #
 #  Histórico:
-#   v1.0 01/09//2020 (Começou a funcionar)
-#  Testado em: python 3.8.2
+#   v1.0 07/09//2020 (Começou a funcionar)
+#  Testado em: python 3.9.3
 #
 # ------------------------Importações e Variáveis----------------------------- #
 import pandas as pd 
