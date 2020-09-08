@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # 
-#  Regressão Linear Utilizando Random Florest
+#  Regressão Linear Utilizando Vetores de Suporte
 #  Email:      paulogcsouza86@hotmail.com
 #  Autor:      Paulo Souza                 Manutenção: Paulo Souza
 #
